@@ -5,3 +5,19 @@ html, body {
 
   height: 100%;
 }
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #181818;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.title {
+  color: lightgray;
+  margin:0;
+  padding:50px 20px;
+}
